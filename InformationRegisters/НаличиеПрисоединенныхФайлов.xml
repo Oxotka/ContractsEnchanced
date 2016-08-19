@@ -34,8 +34,6 @@
 		<Properties>
 			<Name>НаличиеПрисоединенныхФайлов</Name>
 			<ObjectBelonging>Adopted</ObjectBelonging>
-			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
-			<WriteMode>Independent</WriteMode>
 		</Properties>
 		<ChildObjects>
 			<Resource uuid="4368814a-8a3a-49cc-9205-a73f7d2cd016">

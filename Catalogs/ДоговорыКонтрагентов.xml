@@ -26,15 +26,6 @@
 		<Properties>
 			<Name>ДоговорыКонтрагентов</Name>
 			<ObjectBelonging>Adopted</ObjectBelonging>
-			<Hierarchical>true</Hierarchical>
-			<HierarchyType>HierarchyFoldersAndItems</HierarchyType>
-			<Owners>
-				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Контрагенты</xr:Item>
-			</Owners>
-			<CodeLength>9</CodeLength>
-			<DescriptionLength>100</DescriptionLength>
-			<CodeType>String</CodeType>
-			<CodeAllowedLength>Fixed</CodeAllowedLength>
 		</Properties>
 		<ChildObjects>
 			<Attribute uuid="b6f0d6e2-4e15-4943-80dd-93b1ed2d8d6f">
