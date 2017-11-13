@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
+	<ConfigVersions>
+		<Metadata name="Catalog.Валюты" id="5ada08ec-a5d0-4d2f-898a-8d9aa7f9a705" configVersion="5f9646378b19241732bfac3f9e3987e96edc1d87"/>
+		<Metadata name="Catalog.ВидыВзаиморасчетов" id="6353cfb2-6d95-408e-9733-f3c87a8c81ef" configVersion="53816c7d2d738c553d341ab37d38fc633a6eb6b0"/>
+		<Metadata name="Catalog.ДоговорыКонтрагентов" id="f5a39de3-587c-4d9a-8966-50acd938b0b5" configVersion="9debd57fa2e4952685eed2f5bd691418242fe789">
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ВалютаВзаиморасчетов" id="06f6b183-9217-4904-81fe-0f815b9f2b60"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ВидВзаиморасчетов" id="20f06ac1-0902-4fae-8b25-29a5cb68c5de"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ТипЦен" id="27e764e6-b9c0-4e14-9c06-c7f73a9cd5c5"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Номер" id="3575ea05-fc3f-43b4-a47c-25b94445c037"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ВидАгентскогоДоговора" id="361c1a18-6372-443b-a74f-65dab1c35eee"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ВидДоговора" id="4bbc5c60-5d1f-4b90-9c92-a1e800c2c290"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.РасчетыВУсловныхЕдиницах" id="56ed8a0d-984c-4bf6-af01-bb437311ea5d"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Дата" id="5acd6157-c5eb-4069-86fe-7fb6187ae704"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Комментарий" id="5b192bb6-dce6-4b88-98c6-d72b130bdccd"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.УстановленСрокОплаты" id="92c2e8e1-f793-415a-b781-5c1fbe56f24f"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ПроцентКомиссионногоВознаграждения" id="b1ed9f7a-7d26-47cd-91e3-15d7b4340f9b"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ОплатаВВалюте" id="b6f0d6e2-4e15-4943-80dd-93b1ed2d8d6f"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.СрокОплаты" id="c39fe447-4032-42fc-a6a1-e7b5855a1da6"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Организация" id="dee74d64-00ff-4d06-97cc-c6b96da11822"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.НаименованиеДляСчетаФактурыНаАванс" id="e3393d1a-92bd-4ef8-ba6a-f96e0a0c5ecc"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.ПорядокРегистрацииСчетовФактурНаАвансПоДоговору" id="e5e45712-ee98-4be4-bdf8-4a26ed62a6ff"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.УчетАгентскогоНДС" id="ea43a165-d7f7-42de-9289-1a5b172672d4"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.Валютный" id="ed147786-b6b8-4e3d-8218-de8eb05e560e"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.СрокДействия" id="f161ba8d-232b-43b5-9774-2283cda06868"/>
+			<Metadata name="Catalog.ДоговорыКонтрагентов.Attribute.СпособРасчетаКомиссионногоВознаграждения" id="ff302a37-023c-4ccc-9172-f23ac0ffe905"/>
+		</Metadata>
+		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаСпискаОбщая" id="661d5e33-62cf-4df8-b69c-cb15f7dd9098" configVersion="02841dbe2fe273ad03d3a0d1970ca5050cb834eb"/>
+		<Metadata name="Catalog.ДоговорыКонтрагентов.Form.ФормаСпискаОбщая.Form" id="661d5e33-62cf-4df8-b69c-cb15f7dd9098.0" configVersion="09afa0686d408d0956cbc47cd35d42641780e89d"/>
+		<Metadata name="Catalog.Контрагенты" id="8b7b42bd-a59b-4d6f-88d7-862b0ebdb2d9" configVersion="1e2ead7cf5029a9ceeb2379ecdcd15aaa4bb3d77"/>
+		<Metadata name="Catalog.Номенклатура" id="963ec8b1-30a8-434a-ba73-19610f9a451f" configVersion="eed36335d45fd6b869979b2a1f820354954a074f"/>
+		<Metadata name="Catalog.Организации" id="c6732f5b-16ce-4db1-800f-ee1c459b836f" configVersion="82b1c539c0a8bf658661c083b870fa49d0da3773"/>
+		<Metadata name="Catalog.ТипыЦенНоменклатуры" id="e820d0bf-aa20-4255-a9a8-f1aba68f82e7" configVersion="75acb45075dd98bc596b7dc86ffcad28532d17e8"/>
+		<Metadata name="CommonCommand.ПрисоединенныеФайлыБП" id="881c376f-3a56-487c-bbf8-e8402c0c795a" configVersion="008984355de6c2f0db63a9ae521c7dc0b57d6b6d"/>
+		<Metadata name="CommonPicture.ЗаполнитьФорму" id="af8f2754-f187-45f7-9103-94297fe46501" configVersion="0a7378b374df08337b5b68850d60952bb95757cd"/>
+		<Metadata name="CommonPicture.Отчеты" id="5a37c1ef-0c92-49de-b648-e42d583604e5" configVersion="5376b44b3ea93e87af0f054fc1da02e8c7a7e4df"/>
+		<Metadata name="CommonPicture.Скрепка" id="dbd47f81-5713-410b-9ec3-6ebc64efc79c" configVersion="f149b3d3ba1dfd0126d8024b38b151e36799ca9f"/>
+		<Metadata name="Configuration.ДоговорыРасширеннаяФормаСписка" id="7ef755d5-4089-4b30-a268-3cba5192b925" configVersion="3359babbc73e9f4af30146a4ef4f5a3dd4c9118e"/>
+		<Metadata name="Constant.ИспользоватьНесколькоОрганизаций" id="85541867-66b7-4d16-ab0f-ebe4d45169da" configVersion="99f516743f0fc6388cafa8bbee7968328ea052e0"/>
+		<Metadata name="Constant.РазрешенаРаботаСНовостями" id="90bd9a81-d072-460e-af7a-d12ea6a2bda1" configVersion="8bf7e1f7a678be00f175518981cdad96e4015751"/>
+		<Metadata name="DefinedType.ВладелецПрисоединенныхФайлов" id="ce8a1972-230f-47dc-990d-4ad467648bf8" configVersion="05782a037b4f39c7b14a4c4f2a8b3ffbfb191aed"/>
+		<Metadata name="Enum.ВидыАгентскихДоговоров" id="ea2c452e-e20e-4d1d-9a3d-b71717192b47" configVersion="f32f556e05556961796968f937e68a015065a8a7"/>
+		<Metadata name="Enum.ВидыДоговоровКонтрагентов" id="cfe75986-e379-41af-9041-d062b0ed9a83" configVersion="d8349edfa4857f9595ad2bb9e3109ed7cd943057"/>
+		<Metadata name="Enum.ПорядокРегистрацииСчетовФактурНаАванс" id="03d225ec-25ae-4b4a-a116-f87ba0b4c160" configVersion="d01c5f992732676d6bd2eebb83c948d529d71852"/>
+		<Metadata name="Enum.СпособыРасчетаКомиссионногоВознаграждения" id="a9c0a04a-446c-4237-9f5c-fa7cd53168a1" configVersion="a86d88f5ba316825cafcb5d20dd099453b6ae7ee"/>
+		<Metadata name="FunctionalOption.ИспользоватьНесколькоОрганизацийБухгалтерскийУчет" id="f60ea540-c9cf-4f04-88dc-341f5abb41da" configVersion="9eeea552a94cc1006491ebcd6752eab0c0595a15"/>
+		<Metadata name="FunctionalOption.РазрешенаРаботаСНовостями" id="8dc602eb-cb9e-4da4-b0c6-7c7c4d8aeb0c" configVersion="b3e914da85ed6709a4330b7f86b00984cf78a770"/>
+		<Metadata name="InformationRegister.НаличиеФайлов" id="47a56766-e9b0-4295-8035-be6bdc570bbe" configVersion="81489983bf275dfe869090a00e96828d3780cdac">
+			<Metadata name="InformationRegister.НаличиеФайлов.Resource.ЕстьФайлы" id="01459730-4eee-40ee-88d6-2cd56f37373e"/>
+			<Metadata name="InformationRegister.НаличиеФайлов.Dimension.ОбъектСФайлами" id="3a8e5101-ed1f-4215-b667-76d369706d01"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="b637afa2-c0a0-4580-b130-ab5c86478548" configVersion="192154d05a56afdacb5c36173a026f6243e7a171"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
